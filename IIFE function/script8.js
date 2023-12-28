@@ -1,5 +1,6 @@
 // 1.h Rotate an array by k times using IIFE function
 
+
 const arr = [1 , 2 , 3 , 4, 5, 6, 7, 8 , 9 , 10];
 const k = 1 ;
 const  a = (function(arr,k)

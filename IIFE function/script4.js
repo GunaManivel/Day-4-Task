@@ -1,5 +1,6 @@
 // 1.d return all the prime numbers in an array using IIFE function 
 
+
 const num = [1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 ,9 , 10]
 const prime = (function(arr) {
     const isPrime = num => {

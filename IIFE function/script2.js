@@ -1,5 +1,6 @@
 // 1.b Convert all the strings to title caps in a string array  using IIFE function
 
+
 const res =( function(str)
 {
   str = str.split(" ") ;

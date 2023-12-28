@@ -1,5 +1,6 @@
 // 1.f Return median of two sorted arrays of the same size using IIFE function
 
+
 const arr1 = [1, 3, 5];
 const arr2 = [2, 4, 6];
 
